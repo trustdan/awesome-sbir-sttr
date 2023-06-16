@@ -4,6 +4,8 @@ A curated list of awesome resources for small business companies interested in d
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
+![inno-cat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_color_photo_of_a_cartoon_of_the_GitHub_Octocat_with_oc_c6767369-aa44-487d-bcd5-e44ffd8ba768(1).png)
+
 ## Government
 ### 1. SBIR .gov
    - [Homepage](https://sbir.gov/)
