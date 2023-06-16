@@ -5,7 +5,7 @@ A curated list of awesome resources for small business companies interested in d
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Government
-# 1. [Sbir.gov](https://sbir.gov)
+### 1. SBIR .gov
    - [Homepage](https://sbir.gov/)
    - [About](https://sbir.gov/about)
    - [How to Apply](https://sbir.gov/how-to-apply)
@@ -16,17 +16,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [News - Success Stories](https://sbir.gov/news/success-stories)
    - [Affiliation (caveat issues)](https://sbir.gov/affiliation)
 
-2. .gov resources in general
+### 2. .gov resources in general
    - [Seed.nih.gov](https://seed.nih.gov)
    - [Seedfund.nsf.gov](https://seedfund.nsf.gov)
-   - [Sam.gov](https://sam.gov)
-   - [Acq.osd.mil](https://acq.osd.mil)
-   - [Grants.gov](https://grants.gov)
+   - [System for Award Management (SAM)](https://sam.gov)
    - [Beta.sam.gov](https://beta.sam.gov)
-   - [Science.osti.gov](https://science.osti.gov)
-   - [Afwerx.af.mil](https://afwerx.af.mil)
+   - [OUSD Acquisition & Sustainment](https://www.acq.osd.mil/)
+   - [Grants.gov](https://grants.gov)
+   - [US DOE Office of Science and Technical Information](https://www.osti.gov/)
+   - [Innovation arm of the Department of the Air Force](https://www.afwerx.af.mil/)
  
- 3. [SBIR/STTR](https://sbir.gov)
+ ### 3. Small Business Innovation Research
    - [USAF SBIR / STTR](https://afsbirsttr.af.mil)
    - [Air Force Small Biz](https://airforcesmallbiz.af.mil/SBIR-STTR/)
    - [AFRL Small Business Office](https://afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2326713/afrl-small-business-office/)
