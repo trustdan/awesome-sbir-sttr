@@ -20,7 +20,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Seed.nih.gov](https://seed.nih.gov)
    - [Seedfund.nsf.gov](https://seedfund.nsf.gov)
    - [System for Award Management (SAM)](https://sam.gov)
-   - [Beta.sam.gov](https://beta.sam.gov)
    - [OUSD Acquisition & Sustainment](https://www.acq.osd.mil/)
    - [Grants.gov](https://grants.gov)
    - [US DOE Office of Science and Technical Information](https://www.osti.gov/)
