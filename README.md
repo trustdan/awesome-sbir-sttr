@@ -35,6 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ![inno-cat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_color_photo_of_a_cartoon_of_the_GitHub_Octocat_with_oc_c6767369-aa44-487d-bcd5-e44ffd8ba768(1).png)
 
 ## Government
+
 ### 1. SBIR .gov
    - [Homepage](https://sbir.gov/)
    - [About](https://sbir.gov/about)
@@ -70,7 +71,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [DIA Small Business Programs](https://www.dia.mil/Business/Office-of-Small-Business-Programs/)
    - [DHS Science and Technology SBIR](https://www.dhs.gov/science-and-technology/sbir/)
 
-### 4. 18F, the government's own internal consultants on small business innovation
+### 4. "18F," the government's own internal consultants on small business innovation
    - [18F](https://18f.gsa.gov)
    - [Engineering](https://engineering.18f.gov)
    - [De-Risking Guide](https://derisking-guide.18f.gov/)
@@ -105,7 +106,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [NRO Innovate Director's Innovation Initiative](https://www.nro.gov/InnovateNRO/DII/)
    - [Defense Acquisition Regulation System (DARS)](https://www.acq.osd.mil/dpap/dars/)
 
-### 7. The National Security Innovation Network is a program of the U.S. DoD that collaborates with major universities and the venture community to develop solutions that drive national security innovation. 
+### 7. The National Security Innovation Network 
+   - a program of the U.S. DoD that collaborates with major universities and the venture community to develop solutions that drive national security innovation. 
    - [National Security Innovation Network (NSIN)](https://nsin.mil)
    - [Team](https://nsin.mil/team/)
    - [National Security Innovation Network on Youtube](https://www.youtube.com/@nationalsecurityinnovation8788/videos)
@@ -116,7 +118,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Video 2](https://www.youtube.com/watch?v=BAHfgCzTTuw)
    - [Video 3](https://www.youtube.com/watch?v=eyMoh5z1cFQ)
 
-### 8. TechFarHub, helping government acquisition and program professionals buy, build, and deliver modern digital services while staying on the correct side of compliance
+### 8. TechFarHub
+   - helping government acquisition and program professionals buy, build, and deliver modern digital services while staying on the correct side of compliance
    - [TechFarHub](https://techfarhub.usds.gov/)
    - [Get Started - DITAP](https://techfarhub.usds.gov/get-started/ditap/?source=post_page)
    - [Pre-Solicitation - Market Research](https://techfarhub.usds.gov/pre-solicitation/market-research/)
@@ -185,6 +188,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ![lighthouse octocat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_The_morning_sun_filtered_through_the_windows_of_the_li_96f38dcf-8e54-44c0-a760-a1629a5e0e3f.png)
 
 ## Gov-related
+
 ### 11. Defense Entrepreneurs Forum
    - [DEF Project on Innovation in National Security](https://natsec.io/data)
    - [natsec.io/data](https://natsec.io/data)
@@ -253,6 +257,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [International Network on Digital Self-Determination](https://idsd.network)
 
 ## Non-gov tools
+
 ### 14. Non-gov sites
    - [thegovlab.org](https://thegovlab.org)
    - [thegovlab.org/community](https://thegovlab.org/community.html)
@@ -300,6 +305,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [SBIR STTR Guide Video 4](https://youtube.com/watch?v=i0W89IyyFqA)
 
 ## Other useful bits
+
 ### 19. Corporate Research tools
    - [ZoomInfo](https://zoominfo.com)
    - [People Data Labs](https://peopledatalabs.com)
