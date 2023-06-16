@@ -1,9 +1,10 @@
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome SBIR / STTR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python frameworks, libraries, software and resources.
+A curated list of awesome resources for small business companies interested in doing business with the federal government.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
+## Government
 1. [Sbir.gov](https://sbir.gov)
    - [Homepage](https://sbir.gov/)
    - [About](https://sbir.gov/about)
@@ -24,7 +25,57 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
    - [Beta.sam.gov](https://beta.sam.gov)
    - [Science.osti.gov](https://science.osti.gov)
    - [Afwerx.af.mil](https://afwerx.af.mil)
-   - 
+ 
+ 3. [SBIR/STTR](https://sbir.gov)
+   - [Afsbirsttr.af.mil](https://afsbirsttr.af.mil)
+   - [Air Force Small Biz](https://airforcesmallbiz.af.mil/SBIR-STTR/)
+   - [AFRL Small Business Office](https://afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2326713/afrl-small-business-office/)
+   - [Navysbir.com](https://navysbir.com)
+   - [Marine Corps Systems Command](https://marcorsyscom.marines.mil/Work-With-Us/Office-of-Small-Business-Programs/)
+   - [Armysbir.army.mil](https://armysbir.army.mil)
+   - [DARPA](https://darpa.mil/work-with-us/for-small-businesses/participate-sbir-sttr-program)
+   - [Defense SBIR/STTR](https://defensesbirsttr.mil)
+   - [Defense Innovation Marketplace](https://defenseinnovationmarketplace.dtic.mil)
+   - [NGA SBIR](https://nga.mil/resources/Small_Business_Innovation_Research_(SBIR).html)
+   - [USGS Tech Transfer](https://usgs.gov/technology-transfer)
+   - [DIA Small Business Programs](https://dia.mil/Business/Office-of-Small-Business-Programs/)
+   - [DHS Science and Technology SBIR](https://dhs.gov/science-and-technology/sbir)
+
+4. [18F](https://18f.gsa.gov)
+   - [Engineering](https://engineering.18f.gov/)
+   - [De-Risking Guide](https://derisking-guide.18f.gov/)
+
+5. Tutorials
+   - [SBIR 101: Department of Defense Stakeholders](https://www.youtube.com/watch?v=YlTZas9bRvI)
+   - [SBIR Open Topic and phase III transition](https://www.youtube.com/watch?v=gUd09jwa2Fs)
+   - [SBIR 20.1 Webinar #1](https://www.youtube.com/watch?v=3Dd7n4XHZyk)
+   - [Don’t Be a One Hit SBIR Wonder](https://www.youtube.com/watch?v=WXBXn2I5zb4)
+   - [AFVentures Webinar Series Sep 9th Defense Focused Topics vs Open Innovation Topics](https://www.youtube.com/watch?v=dbzpFDkHbXs)
+   - [SBIR Phase III Transition](https://www.youtube.com/watch?v=8xVXIzQA_Uc)
+   - [AFVentures Weekly Webinar August 5th Post Award FAQs](https://www.youtube.com/watch?v=wbZ7i3EfQNo)
+   - [AFVentures Webinar Series - Aug 12th - Phase II Customer Memorandum TPOC Duties](https://www.youtube.com/watch?v=iQPxWXn7opw)
+   - [AFVentures - Aug 26 - Phase III: Engaging the Market](https://www.youtube.com/watch?v=Loe29g9_rZM)
+   - [AFVentures sept 2nd RDT&E](https://www.youtube.com/watch?v=TVL5Au2IV18)
+
+6. .gov
+   - [Govinfo.gov](https://govinfo.gov/)
+   - [USA.gov Agency Index](https://usa.gov/agency-index)
+   - [OPM.gov Open Government Data Apps](https://opm.gov/about-us/open-government/Data/Apps/Agencies/)
+   - [Search USA.gov Air Force](https://search.usa.gov/search?affiliate=techfarhub.usds.gov&query=air+force)
+   - [Citizen Science](https://citizenscience.gov/#)
+   - [Digitalgov.gov](https://digitalgov.gov)
+   - [Fbo.gov](https://fbo.gov)
+   - [Nifa.usda.gov](https://nifa.usda.gov)
+   - [Govinfo.gov GOVMAN PDF](https://govinfo.gov/content/pkg/GOVMAN-2022-12-31/pdf/GOVMAN-2022-12-31.pdf)
+   - [SBA.gov](https://sba.gov)
+   - [Playbook.cio.gov](https://playbook.cio.gov/)
+   - [Touchpoints Registry](https://touchpoints.app.cloud.gov/registry/)
+   - [About NRO](https://nro.gov/About-NRO/)
+   - [NRO Innovate](https://nro.gov/Innovate/)
+   - [NRO Innovate DII](https://nro.gov/InnovateNRO/DII/)
+   - [Acq OSD DPAP DARS](https://acq.osd.mil/dpap/dars/)
+
+
 ## Admin Panels
 
 *Libraries for administrative interfaces.*
