@@ -185,6 +185,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Procurement Center Representative Directory](https://www.sba.gov/federal-contracting/counseling-help/procurement-center-representative-directory)
    - [Commercial Market Representatives](https://www.sba.gov/federal-contracting/counseling-help/commercial-market-representatives)
 
+![lighthouse octocat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_The_morning_sun_filtered_through_the_windows_of_the_li_96f38dcf-8e54-44c0-a760-a1629a5e0e3f.png)
+
 ## Gov-related
 ### 11. Defense Entrepreneurs Forum
    - [DEF Project on Innovation in National Security](https://natsec.io/data)
@@ -372,3 +374,5 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Awesome CheatSheets](https://github.com/LeCoupa/awesome-cheatsheets)
+
+![tired-cat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_The_morning_sun_filtered_through_the_windows_of_the_se_22be1fc2-8999-4a88-95a8-403e8dd53837.png)
