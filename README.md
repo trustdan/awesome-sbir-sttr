@@ -31,7 +31,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [AFRL Small Business Office](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2326713/afrl-small-business-office/)
    - [Navy SBIR](https://www.navysbir.com/)
    - [Marine Corps Office of Small Business Programs](https://www.marcorsyscom.marines.mil/Work-With-Us/Office-of-Small-Business-Programs/)
-   - [Army SBIR STTR](https://armysbir.army.mil/who-we-are/)
+   - [Army SBIR STTR](https://armysbir.army.mil/who-we-are)
    - [DARPA SBIR STTR](https://www.darpa.mil/work-with-us/for-small-businesses/participate-sbir-sttr-program)
    - [Defense SBIR/STTR](https://www.defensesbirsttr.mil/)
    - [Defense Innovation Marketplace](https://defenseinnovationmarketplace.dtic.mil/)
