@@ -225,6 +225,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Civic Changemakers - TransparencIT](https://transparencit.com/civic-changemakers)
    - [International Network on Digital Self-Determination](https://idsd.network)
 
+## Non-gov tools
 ### 14. Non-gov sites
    - [thegovlab.org](https://thegovlab.org)
    - [thegovlab.org/community](https://thegovlab.org/community.html)
@@ -243,8 +244,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Open States](https://openstates.org/)
    - [GovWin](https://govwin.com)
 
-## Non-gov tools
-15 Prompt Engineering
+### 15. Prompt Engineering
    - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
    - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
    - [Prompt Source](https://github.com/bigscience-workshop/promptsource)
@@ -283,7 +283,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Crunchbase](https://crunchbase.com)
    - [People Looker](https://peoplelooker.com)
 
-### 20 Market Research and Lead Generation
+### 20. Market Research and Lead Generation
 - [Open Government Research Exchange](https://govlab.github.io/open-government-research-exchange/authors.html)
 - [OSINT Framework](https://osintframework.com/)
 - [MetaOSINT Chart](https://metaosint.github.io/chart)
