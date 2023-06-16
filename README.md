@@ -32,9 +32,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   * [22. Meta tools for SBIR / STTR ing](#22-meta-tools-for-sbir---sttr-ing)
 - [23. Related Awesome Lists](#23-related-awesome-lists)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ![inno-cat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_color_photo_of_a_cartoon_of_the_GitHub_Octocat_with_oc_c6767369-aa44-487d-bcd5-e44ffd8ba768(1).png)
 
 ## Government
