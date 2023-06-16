@@ -4,6 +4,37 @@ A curated list of awesome resources for small business companies interested in d
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
+- [Government](#government)
+  * [1. SBIR .gov](#1-sbir-gov)
+  * [2. .gov resources in general](#2-gov-resources-in-general)
+  * [3. Small Business Innovation Research](#3-small-business-innovation-research)
+  * [4. 18F, the government's own internal consultants on small business innovation](#4-18f--the-government-s-own-internal-consultants-on-small-business-innovation)
+  * [5. Tutorials](#5-tutorials)
+  * [6. Other .gov](#6-other-gov)
+  * [7. The National Security Innovation Network is a program of the U.S. DoD that collaborates with major universities and the venture community to develop solutions that drive national security innovation.](#7-the-national-security-innovation-network-is-a-program-of-the-us-dod-that-collaborates-with-major-universities-and-the-venture-community-to-develop-solutions-that-drive-national-security-innovation)
+  * [8. TechFarHub, helping government acquisition and program professionals buy, build, and deliver modern digital services while staying on the correct side of compliance](#8-techfarhub--helping-government-acquisition-and-program-professionals-buy--build--and-deliver-modern-digital-services-while-staying-on-the-correct-side-of-compliance)
+  * [9. Sitemap from SBIR .gov](#9-sitemap-from-sbir-gov)
+  * [10. Small Business Administration federal contracting sitemap](#10-small-business-administration-federal-contracting-sitemap)
+- [Gov-related](#gov-related)
+  * [11. Defense Entrepreneurs Forum](#11-defense-entrepreneurs-forum)
+  * [12. Gov-related GitHub repos](#12-gov-related-github-repos)
+  * [13. Relevant sites from The Gov Lab](#13-relevant-sites-from-the-gov-lab)
+- [Non-gov tools](#non-gov-tools)
+  * [14. Non-gov sites](#14-non-gov-sites)
+  * [15. Prompt Engineering](#15-prompt-engineering)
+  * [16. Hackathons](#16-hackathons)
+  * [17. Social Follows for AI, ML, Large Language Models, and Natural Language Processing](#17-social-follows-for-ai--ml--large-language-models--and-natural-language-processing)
+  * [18. One Student's Guide to SBIR STTR as a project](#18-one-student-s-guide-to-sbir-sttr-as-a-project)
+- [Other useful bits](#other-useful-bits)
+  * [19. Corporate Research tools](#19-corporate-research-tools)
+  * [20. Market Research and Lead Generation](#20-market-research-and-lead-generation)
+  * [21. Outsourcing](#21-outsourcing)
+  * [22. Meta tools for SBIR / STTR ing](#22-meta-tools-for-sbir---sttr-ing)
+- [23. Related Awesome Lists](#23-related-awesome-lists)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ![inno-cat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_color_photo_of_a_cartoon_of_the_GitHub_Octocat_with_oc_c6767369-aa44-487d-bcd5-e44ffd8ba768(1).png)
 
 ## Government
