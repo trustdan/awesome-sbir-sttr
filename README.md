@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### 2. DoD Small Business Offices
    - [DoD Small Business](https://business.defense.gov/Work-with-us/Military-Departments-and-Defense-Agencies/)
+  #### Army
    - [Army](https://osbp.army.mil/)
    - [Aberdeen Proving Ground](https://osbp.apg.army.mil/)
    - [Army Contracting Command](https://acc.army.mil/smallbusiness/)
@@ -62,10 +63,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Army Sustainment Command](https://www.aschq.army.mil/home/SmallBusiness.aspx)
    - [National Guard Bureau](https://www.nationalguard.mil/Leadership/Joint-Staff/Special-Staff/Small-Business-Programs/)
    - [TACOM](https://www.tacom.army.mil/osbp)
+####  Navy
    - [Navy](https://www.secnav.navy.mil/smallbusiness/pages/default.aspx/smallbusiness/Pages/default.aspx)
    - [Navy Office of Small Business Resources OSBP](https://www.secnav.navy.mil/smallbusiness/Pages/OSBP_Resources.aspx)
-   - [Marine Corps Installations and Logistics](https://www.iandl.marines.mil/Divisions/Small-Business-Programs-LK/)
-   - [Marine Corps System Command](https://www.marcorsyscom.marines.mil/News/News-Article-Display/Article/2960975/making-small-businesses-the-first-option/)
    - [Military Sealift Command](https://www.msc.usff.navy.mil/Business-Opportunities/Contracts/)
    - [Naval Air Systems Command](https://www.navair.navy.mil/osbp/)
    - [Naval Facilities Engineering Command](https://www.navfac.navy.mil/)
@@ -74,10 +74,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Office of Naval Research](https://www.nre.navy.mil/work-with-us/small-business)
    - [Space and Naval Warfare Systems Command](https://www.secnav.navy.mil/smallbusiness/Pages/OSBP_Resources.aspx)
    - [Strategic Systems Programs](https://www.secnav.navy.mil/smallbusiness/Pages/ssp.aspx)
+####  Marine Corps
+   - [Marine Corps Installations and Logistics](https://www.iandl.marines.mil/Divisions/Small-Business-Programs-LK/)
+   - [Marine Corps System Command](https://www.marcorsyscom.marines.mil/News/News-Article-Display/Article/2960975/making-small-businesses-the-first-option/)
+####  Air Force
    - [Air Force](https://www.airforcesmallbiz.af.mil/)
    - [Air Force District of Washington](https://www.afdw.af.mil/Units/Small-Business/)
    - [ACC Acquisition Management and Integration Center](https://www.acc.af.mil/Units/ACC-AMIC-Small-Business/)
-   - Other Defense Agencies
+ ####  Other Defense Agencies
    - [Defense Advanced Research Projects Agency](https://www.darpa.mil/work-with-us/for-small-businesses)
    - [Defense Contract Management Agency](https://www.dcma.mil/smallbusiness/)
    - [Defense CounterIntelligence and Security Agency](https://www.dcsa.mil/Contact-Us/Office-of-Small-Business-Programs/)
