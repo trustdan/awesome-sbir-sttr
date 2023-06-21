@@ -97,7 +97,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Special Operations Command](https://www.socom.mil/SOF-ATL/Pages/small-business.aspx)
    - [Washington Headquarters Services](https://www.whs.mil/About-WHS/Offices/Office-of-Small-Business-Programs-OSBP/)
 
-### 2. .gov resources in general
+### 3. .gov resources in general
    - [Seed.nih.gov](https://seed.nih.gov)
    - [Seedfund.nsf.gov](https://seedfund.nsf.gov)
    - [System for Award Management (SAM)](https://sam.gov)
@@ -106,7 +106,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [US DOE Office of Science and Technical Information](https://www.osti.gov/)
    - [Innovation arm of the Department of the Air Force](https://www.afwerx.af.mil/)
  
- ### 3. Small Business Innovation Research
+ ### 4. Small Business Innovation Research
    - [USAF SBIR / STTR](https://www.afsbirsttr.af.mil/)
    - [Air Force Small Biz](https://www.airforcesmallbiz.af.mil/SBIR-STTR/)
    - [AFRL Small Business Office](https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2326713/afrl-small-business-office/)
@@ -121,12 +121,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [DIA Small Business Programs](https://www.dia.mil/Business/Office-of-Small-Business-Programs/)
    - [DHS Science and Technology SBIR](https://www.dhs.gov/science-and-technology/sbir/)
 
-### 4. "18F," the government's own internal consultants on small business innovation
+### 5. "18F," the government's own internal consultants on small business innovation
    - [18F](https://18f.gsa.gov)
    - [Engineering](https://engineering.18f.gov)
    - [De-Risking Guide](https://derisking-guide.18f.gov/)
 
-### 5. Tutorials
+### 6. Tutorials
    - [SBIR 101: Department of Defense Stakeholders](https://www.youtube.com/watch?v=YlTZas9bRvI)
    - [SBIR Open Topic and phase III transition](https://www.youtube.com/watch?v=gUd09jwa2Fs)
    - [SBIR 20.1 Webinar #1](https://www.youtube.com/watch?v=3Dd7n4XHZyk)
@@ -138,7 +138,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [AFVentures - Aug 26 - Phase III: Engaging the Market](https://www.youtube.com/watch?v=Loe29g9_rZM)
    - [AFVentures sept 2nd RDT&E](https://www.youtube.com/watch?v=TVL5Au2IV18)
 
-### 6. Other .gov
+### 7. Other .gov
    - [Govinfo.gov](https://www.govinfo.gov/)
    - [USA.gov Agency Index](https://www.usa.gov/agency-index)
    - [OPM.gov Open Government Data Apps](https://www.opm.gov/about-us/open-government/Data/Apps/Agencies/)
@@ -156,7 +156,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [NRO Innovate Director's Innovation Initiative](https://www.nro.gov/InnovateNRO/DII/)
    - [Defense Acquisition Regulation System (DARS)](https://www.acq.osd.mil/dpap/dars/)
 
-### 7. The National Security Innovation Network 
+### 8. The National Security Innovation Network 
    - a program of the U.S. DoD that collaborates with major universities and the venture community to develop solutions that drive national security innovation. 
    - [National Security Innovation Network (NSIN)](https://nsin.mil)
    - [Team](https://nsin.mil/team/)
@@ -168,7 +168,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Video 2](https://www.youtube.com/watch?v=BAHfgCzTTuw)
    - [Video 3](https://www.youtube.com/watch?v=eyMoh5z1cFQ)
 
-### 8. TechFarHub
+### 9. TechFarHub
    - helping government acquisition and program professionals buy, build, and deliver modern digital services while staying on the correct side of compliance
    - [TechFarHub](https://techfarhub.usds.gov/)
    - [Get Started - DITAP](https://techfarhub.usds.gov/get-started/ditap/?source=post_page)
@@ -176,7 +176,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Solicitation - Contract Design](https://techfarhub.usds.gov/solicitation/contract-design/)
    - [Innovative Contracting Case Studies 2014 PDF](https://techfarhub.usds.gov/assets/files/innovative-contracting-case-studies-2014.pdf)
 
-### 9. Sitemap from SBIR .gov
+### 10. Sitemap from SBIR .gov
    - [SBIR Sitemap](https://www.sbir.gov/sitemap)
    - [About SBIR](https://www.sbir.gov/about)
    - [About FAST (Federal and State Technology Partnership Program)](https://www.sbir.gov/about-fast)
@@ -209,7 +209,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Support Organizations](https://www.sbir.gov/support-organizations)
    - [Agency Representative](https://www.sbir.gov/agency-representative)
 
-### 10. Small Business Administration federal contracting sitemap
+### 11. Small Business Administration federal contracting sitemap
    - [SBA Sitemap](https://www.sba.gov/sitemap)
    - [Federal Contracting](https://www.sba.gov/federal-contracting)
    - [Contracting Guide](https://www.sba.gov/federal-contracting/contracting-guide)
@@ -239,7 +239,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Gov-related
 
-### 11. Defense Entrepreneurs Forum
+### 12. Defense Entrepreneurs Forum
    - [DEF Project on Innovation in National Security](https://natsec.io/data)
    - [natsec.io/data](https://natsec.io/data)
    - [natsec.io/graph](https://natsec.io/graph)
@@ -247,7 +247,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [docs.natsec.io/about/story](https://docs.natsec.io/about/story)
    - [Direct link to data](https://docs.google.com/spreadsheets/d/1dj9LztlbBCB7BPCNpTHd8ko_Uz1pcLQDjTOfEYJH6Ik/edit#gid=1780929379)
 
-### 12. Gov-related GitHub repos
+### 13. Gov-related GitHub repos
    - [government.github.com](https://government.github.com/)
    - [github.com/tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson)
    - [USDS repositories](https://github.com/orgs/usds/repositories?q=&type=all&language=&sort=stargazers)
@@ -270,7 +270,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [DoD at DEFCON](https://github.com/deptofdefense/dds-at-DEFCON)
    - [SBIR Dashboard](https://bhabishya-neupane.shinyapps.io/SBIR-Dashboard/)
 
-### 13. Relevant sites from The Gov Lab
+### 14. Relevant sites from The Gov Lab
    - [The Gov Lab assets](https://thegovlab.org/our-sites.html)
    - [datacollaboratives.org](https://datacollaboratives.org)
    - [crowd.law](https://crowd.law)
@@ -308,7 +308,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Non-gov tools
 
-### 14. Non-gov sites
+### 15. Non-gov sites
    - [thegovlab.org](https://thegovlab.org)
    - [thegovlab.org/community](https://thegovlab.org/community.html)
    - [thegovlab.org/project/project-open-data-demand](https://thegovlab.org/project/project-open-data-demand)
@@ -326,7 +326,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Open States](https://openstates.org/)
    - [GovWin](https://govwin.com)
 
-### 15. Prompt Engineering
+### 16. Prompt Engineering
    - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
    - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
    - [Prompt Source](https://github.com/bigscience-workshop/promptsource)
@@ -336,10 +336,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [GitHub ChatGPT Topic](https://github.com/topics/chatgpt)
    - [ChatGPT Advanced](https://github.com/interstellard/chatgpt-advanced)
 
-### 16. Hackathons
+### 17. Hackathons
    - [LabLab AI Event](https://lablab.ai/event)
 
-### 17. Social Follows for AI, ML, Large Language Models, and Natural Language Processing
+### 18. Social Follows for AI, ML, Large Language Models, and Natural Language Processing
    - [Aadit Shrestha](https://twitter.com/aaditsh)
    - [Ethan Mollick](https://twitter.com/emollick)
    - [Rowan Cheung](https://twitter.com/rowancheung)
@@ -348,7 +348,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Bucco Capital](https://twitter.com/buccocapital)
    - [The Rundown AI](https://twitter.com/therundownai)
 
-### 18. One Student's Guide to SBIR STTR as a project
+### 19. One Student's Guide to SBIR STTR as a project
    - [SBIR STTR Guide Video 1](https://youtu.be/3MZ9G9CMWUI)
    - [SBIR STTR Guide Video 2](https://youtube.com/watch?v=MYlw3J0FYE4&list=PLG3lylzOg8Fhj_tENfX6JgD1eAfZGGbrd)
    - [SBIR STTR Guide Video 3](https://youtube.com/watch?v=ReHWRi-Gt4g)
@@ -356,7 +356,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Other useful bits
 
-### 19. Corporate Research tools
+### 20. Corporate Research tools
    - [ZoomInfo](https://zoominfo.com)
    - [People Data Labs](https://peopledatalabs.com)
    - [Dun & Bradstreet](https://dnb.com)
@@ -366,7 +366,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [Crunchbase](https://crunchbase.com)
    - [People Looker](https://peoplelooker.com)
 
-### 20. Market Research and Lead Generation
+### 21. Market Research and Lead Generation
 - [Open Government Research Exchange](https://govlab.github.io/open-government-research-exchange/authors.html)
 - [OSINT Framework](https://osintframework.com/)
 - [MetaOSINT Chart](https://metaosint.github.io/chart)
@@ -388,10 +388,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [iKy](https://github.com/kennbroorg/iKy)
 - [ScrapedIn](https://github.com/linkedtales/scrapedin)
 
-### 21. Outsourcing
+### 22. Outsourcing
 - [TopTal Talent](https://toptal.com/z9QRMTr/worlds-top-talent)
 
-### 22. Meta tools for SBIR / STTR ing
+### 23. Meta tools for SBIR / STTR ing
 - [GitHub Dorks](https://github.com/techgaun/github-dorks)
 - [Gitem](https://github.com/mschwager/gitem)
 - [Code.mil](https://github.com/Code-dot-mil/code.mil)
@@ -417,7 +417,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [USA Government Analytics](https://analytics.usa.gov/)
 - [18F Government Analytics](https://github.com/18F/analytics.usa.gov)
 
-### 23. Related Awesome Lists
+### 24. Related Awesome Lists
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Awesome CheatSheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience)
