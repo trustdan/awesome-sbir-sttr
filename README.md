@@ -456,9 +456,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [awesome-startup](https://github.com/KrishMunot/awesome-startup)
 - [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
-- [Digital Bunker Awesome](](https://awesome.digitalbunker.dev)
+- [Digital Bunker Awesome](https://awesome.digitalbunker.dev)
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [lists](https://github.com/jnv/lists)
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-- [Sindre Sorhus' Awesome List](](https://github.com/sindresorhus/awesome)
+- [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome)
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
+
+![tired octocat](https://github.com/trustdan/rust-class/blob/main/promo/class-photos/crimedog_The_morning_sun_filtered_through_the_windows_of_the_se_22be1fc2-8999-4a88-95a8-403e8dd53837.png)
