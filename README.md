@@ -413,55 +413,52 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [18F Government Analytics](https://github.com/18F/analytics.usa.gov)
 
 ### 23. Related Awesome Lists
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts
-- [Awesome CheatSheets](https://github.com/LeCoupa/awesome-cheatsheets
-- [Awesome Data Science](https://github.com/academic/awesome-datascience
-- [Awesome Lists Top](https://awesomelists.top
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job
-- [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance
-- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence
-- [awesome-awesome](https://github.com/emijrp/awesome-awesome
-- [awesome-cheatsheets](https://github.com/detailyang/awesome-cheatsheet
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets
-- [awesome-CLI](https://github.com/umutphp/awesome-cli
-- [awesome-communication](https://github.com/okhosting/awesome-communication
-- [awesome-complexity](https://github.com/sellisd/awesome-complexity
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses
-- [awesome-data-valuation](https://github.com/daviddao/awesome-data-valuation
-- [awesome-design](https://github.com/gztchan/awesome-design
-- [awesome-developer-first](https://github.com/agamm/awesome-developer-first
-- [awesome-devrel](https://github.com/devrelcollective/awesome-devrel
-- [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops
-- [awesome-earth-system-ml](https://github.com/blutjens/awesome-earth-system-ml
-- [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management
-- [awesome-geojson](https://github.com/JJediny/awesome-geojson
-- [awesome-geojson](https://github.com/tmcw/awesome-geojson
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4
-- [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools
-- [awesome-job-boards](https://github.com/tramcar/awesome-job-boards
-- [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX
-- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing
-- [awesome-marine-hacking](https://github.com/hackforthesea/awesome-marine-hacking
-- [awesome-open-company](https://github.com/opencompany/awesome-open-company
-- [awesome-osint](https://github.com/jivoi/awesome-osint
-- [awesome-osint](https://github.com/tracelabs/awesome-osint
-- [awesome-podcasts](https://github.com/ghosh/awesome-podcasts
-- [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity
-- [awesome-reversing](https://github.com/tylerha97/awesome-reversing
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust
-- [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing
-- [awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering
-- [awesome-startup](https://github.com/KrishMunot/awesome-startup
-- [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science
-- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python
-- [Digital Bunker Awesome](](https://awesome.digitalbunker.dev
-- [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet
-- [lists](https://github.com/jnv/lists
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts
-- [Sindre Sorhus' Awesome List](](https://github.com/sindresorhus/awesome
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome
-- [the-book-of-secret-knowledge ](](https://github.com/trimstray/the-book-of-secret-knowledge
-- [Track Awesome List](](https://trackawesomelist.com
-- [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome CheatSheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
+- [Awesome Lists Top](https://awesomelists.top)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+- [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [awesome-cheatsheets](https://github.com/detailyang/awesome-cheatsheet)
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [awesome-CLI](https://github.com/umutphp/awesome-cli)
+- [awesome-communication](https://github.com/okhosting/awesome-communication)
+- [awesome-complexity](https://github.com/sellisd/awesome-complexity)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [awesome-data-valuation](https://github.com/daviddao/awesome-data-valuation)
+- [awesome-design](https://github.com/gztchan/awesome-design)
+- [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
+- [awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+- [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)
+- [awesome-earth-system-ml](https://github.com/blutjens/awesome-earth-system-ml)
+- [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)
+- [awesome-geojson](https://github.com/JJediny/awesome-geojson)
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson)
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4)
+- [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools)
+- [awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
+- [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+- [awesome-marine-hacking](https://github.com/hackforthesea/awesome-marine-hacking)
+- [awesome-open-company](https://github.com/opencompany/awesome-open-company)
+- [awesome-osint](https://github.com/jivoi/awesome-osint)
+- [awesome-osint](https://github.com/tracelabs/awesome-osint)
+- [awesome-podcasts](https://github.com/ghosh/awesome-podcasts)
+- [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [awesome-reversing](https://github.com/tylerha97/awesome-reversing)
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+- [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering)
+- [awesome-startup](https://github.com/KrishMunot/awesome-startup)
+- [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+- [Digital Bunker Awesome](](https://awesome.digitalbunker.dev)
+- [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [lists](https://github.com/jnv/lists)
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+- [Sindre Sorhus' Awesome List](](https://github.com/sindresorhus/awesome)
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
