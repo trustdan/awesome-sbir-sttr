@@ -1,4 +1,4 @@
-![image](https://github.com/trustdan/awesome-sbir-sttr/assets/2006796/84863675-ab9e-479d-ae3a-0dd6d0556a24)# Awesome SBIR / STTR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome SBIR / STTR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome resources for small business companies interested in doing business with the federal government.
 
